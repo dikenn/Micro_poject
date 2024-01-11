@@ -1,0 +1,12 @@
+../Core/Src/main.c:76:7:mapValuef	40	static
+../Core/Src/main.c:88:6:MPU6050_init	32	static
+../Core/Src/main.c:113:6:MPU6050_Read_Accel	48	static
+../Core/Src/main.c:127:6:MPU6050_Read_Gyro	48	static
+../Core/Src/main.c:151:5:main	72	static
+../Core/Src/main.c:244:6:SystemClock_Config	88	static
+../Core/Src/main.c:288:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:320:13:MX_TIM3_Init	32	static
+../Core/Src/main.c:362:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:393:13:MX_USART6_UART_Init	8	static
+../Core/Src/main.c:424:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:473:6:Error_Handler	4	static,ignoring_inline_asm

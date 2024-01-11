@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.asm": "platformio-debug.asm",
+        "math.h": "c",
+        "structpackets.h": "c"
+    }
+}

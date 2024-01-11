@@ -1,0 +1,10 @@
+../Core/Inc/structPackets.c:6:6:GetMovementPacket	1
+../Core/Inc/structPackets.c:10:6:GetPositionPacket	1
+../Core/Inc/structPackets.c:14:6:GetAccellerationPacket	1
+../Core/Inc/structPackets.c:18:6:GetHumTempResPacket	1
+../Core/Inc/structPackets.c:22:6:GetRequestPacket	1
+../Core/Inc/structPackets.c:26:10:CreateMovementPacketToByteArray	1
+../Core/Inc/structPackets.c:43:10:CreatePositionPacketToByteArray	1
+../Core/Inc/structPackets.c:61:10:CreateAccellerationPacketToByteArray	1
+../Core/Inc/structPackets.c:77:10:CreateHumTempResPacketToByteArray	1
+../Core/Inc/structPackets.c:92:10:CreateRequestToByteArray	1

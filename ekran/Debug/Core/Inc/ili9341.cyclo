@@ -1,0 +1,17 @@
+../Core/Inc/ili9341.c:266:6:ili9341_DisplayOn	1
+../Core/Inc/ili9341.c:280:6:ili9341_DisplayOff	1
+../Core/Inc/ili9341.c:294:10:ili9341_GetLcdPixelWidth	1
+../Core/Inc/ili9341.c:305:10:ili9341_GetLcdPixelHeight	1
+../Core/Inc/ili9341.c:317:10:ili9341_ReadID	2
+../Core/Inc/ili9341.c:333:6:ili9341_Init	3
+../Core/Inc/ili9341.c:404:6:ili9341_SetCursor	1
+../Core/Inc/ili9341.c:419:6:ili9341_WritePixel	1
+../Core/Inc/ili9341.c:434:10:ili9341_ReadPixel	1
+../Core/Inc/ili9341.c:455:6:ili9341_SetDisplayWindow	1
+../Core/Inc/ili9341.c:473:6:ili9341_DrawHLine	1
+../Core/Inc/ili9341.c:491:6:ili9341_DrawVLine	1
+../Core/Inc/ili9341.c:510:6:ili9341_FillRect	1
+../Core/Inc/ili9341.c:528:6:ili9341_DrawBitmap	1
+../Core/Inc/ili9341.c:557:6:ili9341_DrawRGBImage	1
+../Core/Inc/ili9341.c:576:6:ili9341_ReadRGBImage	1
+../Core/Inc/ili9341.c:594:6:ili9341_Scroll	5

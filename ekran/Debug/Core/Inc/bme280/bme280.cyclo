@@ -1,0 +1,14 @@
+../Core/Inc/bme280/bme280.c:5:6:BME280	1
+../Core/Inc/bme280/bme280.c:12:7:BME280_begin	3
+../Core/Inc/bme280/bme280.c:28:7:BME280_setDefaultSampling	1
+../Core/Inc/bme280/bme280.c:37:7:BME280_isReadingCalibration	1
+../Core/Inc/bme280/bme280.c:45:7:BME280_readCoefficients	1
+../Core/Inc/bme280/bme280.c:71:8:BME280_BME280_readPressure	2
+../Core/Inc/bme280/bme280.c:95:7:readPressure	4
+../Core/Inc/bme280/bme280.c:129:8:BME280_readHumidity	2
+../Core/Inc/bme280/bme280.c:161:7:BME280_writeTo	1
+../Core/Inc/bme280/bme280.c:168:7:BME280_readFrom	1
+../Core/Inc/bme280/bme280.c:176:10:BME280_readFrom8	1
+../Core/Inc/bme280/bme280.c:185:11:BME280_readFrom16	1
+../Core/Inc/bme280/bme280.c:196:7:BME280_read	1
+../Core/Inc/bme280/bme280.c:205:7:BME280_PrintRegister	2
